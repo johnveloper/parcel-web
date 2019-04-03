@@ -2,7 +2,7 @@
 
 ## Clone
 ```
-git clone https://github.com/FlutterAddict/parcel-web.git my-simple-webapp
+git clone https://github.com/johnveloper/parcel-web.git my-web-app
 ```
 
 ## Install dependency
